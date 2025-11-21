@@ -12,8 +12,7 @@ jobs:
     strategy:
       matrix:
         url:
-          - "https://apps.apple.com/us/app/reddit/id1064216828"
-          - "https://apps.apple.com/us/app/twitch-live-streaming/id460177396"
+          - "https://armconverter.com/decryptedappstore/us/app/stikdebug/id6744045754"
         path:
           - App.ipa
           - ''
